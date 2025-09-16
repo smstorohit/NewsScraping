@@ -6,4 +6,4 @@
 
 3. news article urls can be added at line 36 in newsscraping.py
 
-5. query string for semantic search can be edited at line 60 in newsscraping.py 
+4. query string for semantic search can be edited at line 60 in newsscraping.py 
